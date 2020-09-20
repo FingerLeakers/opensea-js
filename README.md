@@ -778,3 +778,9 @@ Contributions welcome! Please use GitHub issues for suggestions/concerns - if yo
 * Is your computer's internal clock accurate? If not, try enabling automatic clock adjustment locally or following [this tutorial](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/set-time.html) to update an Amazon EC2 instance.
 
 * Are you attempting to purchase a token that's unpurchasable on [OpenSea](https://opensea.io/)?  If so, contact us [Discord](https://discord.gg/XjwWYgU) in the `#developers` channel and we'll help to diagnose the issue.
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
